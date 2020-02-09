@@ -1,0 +1,18 @@
+{
+  "name": "ms_compare",
+  "version": "1.0.0",
+  "description": "Take screenshots of websites to compare with each other in different sizes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eho \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "author": "Majd Othman",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pageres": "^5.2.0",
+    "path": "^0.12.7",
+    "yaml": "^1.7.2"
+  }
+}

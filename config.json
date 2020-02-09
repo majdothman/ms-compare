@@ -1,0 +1,15 @@
+{
+  "saveResult": "./Comparison/",
+  "yaml": [
+    {
+      "type": "compareCurrent",
+      "path": "./yaml/WebName-1.yaml",
+      "size": "1980x1080"
+    },
+    {
+      "type": "compareWith",
+      "path": "./yaml/WebName-2.yaml",
+      "size": "1980x1080"
+    }
+  ]
+}
